@@ -1,1 +1,1 @@
-# devcontainer-aws-terraform-image
+# devcontainer-custom-image
