@@ -1,0 +1,11 @@
+{
+  "id": "eksctl",
+  "name": "eksctl",
+  "options": {
+    "version": {
+      "type": "string",
+      "default": "latest",
+      "description": "Select or enter a version of the eksctl(default: latest)"
+    }
+  }
+}
