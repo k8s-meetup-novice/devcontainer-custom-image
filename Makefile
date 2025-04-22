@@ -1,7 +1,7 @@
 VERSION      ?= latest
 PLATFORM     ?= linux/amd64
-AWS_IMAGE    ?= ghcr.io/mochizuki875/devcontainer-custom-image/devcontainer-aws-terraform
-GCLOUD_IMAGE ?= ghcr.io/mochizuki875/devcontainer-custom-image/devcontainer-gcloud-terraform
+AWS_IMAGE    ?= ghcr.io/k8s-meetup-novice/devcontainer-custom-image/devcontainer-aws-terraform
+GCLOUD_IMAGE ?= ghcr.io/k8s-meetup-novice/devcontainer-custom-image/devcontainer-gcloud-terraform
 
 build-aws:
 	cd images/src/aws-terraform && \
