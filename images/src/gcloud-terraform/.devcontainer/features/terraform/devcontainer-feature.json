@@ -1,0 +1,11 @@
+{
+  "id": "terraform",
+  "name": "terraform",
+  "options": {
+    "version": {
+      "type": "string",
+      "default": "latest",
+      "description": "Select or enter a version of the terraform(default: latest)"
+    }
+  }
+}

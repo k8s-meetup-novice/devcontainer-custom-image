@@ -1,0 +1,4 @@
+{
+    "image": "ghcr.io/mochizuki875/devcontainer-custom-image/devcontainer-gcloud-terraform:latest",
+    "remoteUser": "vscode"
+  }

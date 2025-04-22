@@ -1,0 +1,11 @@
+{
+  "id": "kubectl",
+  "name": "kubectl",
+  "options": {
+    "version": {
+      "type": "string",
+      "default": "latest",
+      "description": "Select or enter a version of the kubectl(default: latest)"
+    }
+  }
+}

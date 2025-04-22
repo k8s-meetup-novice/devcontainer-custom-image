@@ -1,0 +1,11 @@
+{
+  "id": "gcloud",
+  "name": "gcloud",
+  "options": {
+    "version": {
+      "type": "string",
+      "default": "latest",
+      "description": "Select or enter a version of the gcloud(default: latest)"
+    }
+  }
+}
