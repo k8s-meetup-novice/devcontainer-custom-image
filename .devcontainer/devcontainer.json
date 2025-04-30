@@ -1,4 +1,0 @@
-{
-    "image": "ghcr.io/k8s-meetup-novice/devcontainer-custom-image/devcontainer-gcloud-terraform:latest",
-    "remoteUser": "vscode"
-  }
