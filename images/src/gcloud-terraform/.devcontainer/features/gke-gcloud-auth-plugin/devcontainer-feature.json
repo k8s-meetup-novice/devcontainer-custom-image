@@ -1,0 +1,11 @@
+{
+  "id": "gke-gcloud-auth-plugin",
+  "name": "gke-gcloud-auth-plugin",
+  "options": {
+    "version": {
+      "type": "string",
+      "default": "latest",
+      "description": "Select or enter a version of the gke-gcloud-auth-plugin(default: latest)"
+    }
+  }
+}

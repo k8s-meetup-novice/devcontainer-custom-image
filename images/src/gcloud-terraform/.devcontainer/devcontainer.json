@@ -15,6 +15,9 @@
       },
       "./features/kubectl": {
         "version": "1:518.0.0-0"
+      },
+      "./features/gke-gcloud-auth-plugin": {
+        "version": "467.0.0-0"
       }
   },
   "remoteUser": "vscode"
