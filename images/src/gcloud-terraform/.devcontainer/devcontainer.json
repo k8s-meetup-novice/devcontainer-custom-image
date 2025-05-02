@@ -11,10 +11,10 @@
       },
       "ghcr.io/devcontainers/features/docker-in-docker:2": {},
       "./features/gcloud": {
-        "version": "518.0.0-0"
+        "version": "520.0.0-0"
       },
       "./features/kubectl": {
-        "version": "1:518.0.0-0"
+        "version": "1:520.0.0-0"
       },
       "./features/gke-gcloud-auth-plugin": {
         "version": "467.0.0-0"
